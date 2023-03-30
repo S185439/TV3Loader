@@ -1,0 +1,156 @@
+Topic,,,,
+1000001,Politics,POL,,
+1000002,Business,BUS,,
+1000003,Sports,SPO,,
+1000004,Entertainment,ENT,,
+1000005,Technology,TEC,,
+1000006,Science,SCI,,
+1000007,Health,HEA,,
+1000008,Travel,TRA,,
+1000009,Food,FOO,,
+1000010,Fashion,FAS,,
+break,,,,
+NewsItem,,,,
+2000001,1000001,12:30:00,President signs new bill into law,1200
+2000002,1000002,15:45:00,Company X reports strong Q1 earnings,800
+2000003,1000003,18:00:00,Home team wins championship game in overtime,2500
+2000004,1000004,21:15:00,Interview with Hollywood star about new movie,1500
+2000005,1000005,09:00:00,New smartphone released by tech giant,3000
+2000006,1000006,13:20:00,Scientists discover new species of dinosaur,500
+2000007,1000007,17:30:00,Expert advice on improving mental health,1000
+2000008,1000008,20:45:00,Popular travel destination now open to tourists,2000
+2000009,1000009,08:10:00,Celebrity chef shares recipe for delicious dish,700
+2000010,1000010,14:00:00,Fashion designer talks about new collection,900
+break,,,,
+Country,,,,
+United States,,,,
+United Kingdom,,,,
+Canada,,,,
+Australia,,,,
+France,,,,
+Germany,,,,
+Japan,,,,
+China,,,,
+Brazil,,,,
+Mexico,,,,
+break,,,,
+City,,,,
+3000001,United States,2001,,
+3000002,United Kingdom,2002,,
+3000003,Canada,2003,,
+3000004,Australia,2004,,
+3000005,France,2005,,
+3000006,Germany,2006,,
+3000007,Japan,2007,,
+3000008,China,2008,,
+3000009,Brazil,2009,,
+3000010,Mexico,2010,,
+break,,,,
+Journalist,,,,
+5000001,4000001,John,Smith,
+5000002,4000002,Jane,Doe,
+5000003,4000003,Bob,Johnson,
+5000004,4000004,Samantha,Lee,
+5000005,4000005,David,Wang,
+5000006,4000006,Jonathan,Madsen,
+5000007,4000007,Valdemar,Jensen,
+5000008,4000008,Simon,Andersen,
+5000009,4000009,Christian,Johnsen,
+5000010,4000010,Frederik,Frederikssen,
+break,,,,
+Address,,,,
+4000001,3000001,5th Avenue,123,
+4000002,3000002,Rodeo Drive,456,
+4000003,3000003,Downing Street,10,
+4000004,3000004,Bay Street,1234,
+4000005,3000005,George Street,567,
+4000006,3000006,Rue de Rivoli,8,
+4000007,3000007,4th Avenue,69,
+4000008,3000008,2nd Avenue,987,
+4000009,3000009,13th Avenue,654,
+4000010,3000010,69th Avenue,321,
+break,,,,
+Footage,,,,
+6000001,5000001,President signing bill,2022-01-01,00:02:30
+6000002,5000002,Interview with CEO,2022-01-02,00:01:45
+6000003,5000003,Championship game highlights,2022-01-03,00:02:15
+6000004,5000004,Interview with movie star,2022-01-04,00:01:12
+6000005,5000005,Interview with random people,2022-01-05,00:02:22
+6000006,5000006,Local business interview,2022-01-06,00:01:15
+6000007,5000007,Footage of dog race,2022-01-07,00:02:40
+6000008,5000008,Footage of horse race,2022-01-08,00:01:22
+6000009,5000009,Concert highlights,2022-01-09,00:02:05
+6000010,5000010,Big car crash on highway,2022-01-10,00:00:52
+break,,,,
+Editions,,,,
+7000001,5000001,2022-01-01,01:00:00,18:00:00
+7000002,5000002,2022-01-08,01:00:00,18:00:00
+7000003,5000003,2022-01-15,01:00:00,18:00:00
+7000004,5000004,2022-01-22,01:00:00,18:00:00
+7000005,5000005,2022-01-26,01:00:00,16:00:00
+7000006,5000006,2022-01-28,01:00:00,16:00:00
+7000007,5000007,2022-02-06,01:00:00,16:00:00
+7000008,5000008,2022-02-12,01:00:00,08:00:00
+7000009,5000009,2022-02-18,01:00:00,08:00:00
+7000010,5000010,2022-02-25,01:00:00,06:00:00
+break,,,,
+ConnectedFootage,,,,
+6000001,2000001,,,
+6000002,2000002,,,
+6000003,2000003,,,
+6000004,2000004,,,
+6000005,2000005,,,
+6000006,2000006,,,
+6000007,2000007,,,
+6000008,2000008,,,
+6000009,2000009,,,
+6000010,2000010,,,
+break,,,,
+Roles,,,,
+5000001,1000001,Editor,,
+5000002,1000002,Reporter,,
+5000003,1000003,Photographer,,
+5000004,1000004,Reporter,,
+5000005,1000005,Photographer,,
+5000006,1000006,Reporter,,
+5000007,1000007,Reporter,,
+5000008,1000008,Editor,,
+5000009,1000009,Reporter,,
+5000010,1000010,Photographer,,
+break,,,,
+ConnectedNewsitems,,,,
+7000001,2000001,,,
+7000002,2000002,,,
+7000003,2000003,,,
+7000004,2000004,,,
+7000005,2000005,,,
+7000006,2000006,,,
+7000007,2000007,,,
+7000008,2000008,,,
+7000009,2000009,,,
+7000010,2000010,,,
+break,,,,
+PhoneNumbers,,,,
++1,55512340,5000001,,
++44,20712345,5000002,,
++1,41612345,5000003,,
++33,14412345,5000004,,
++45,69696969,5000005,,
++22,42042069,5000006,,
++1,36036066,5000007,,
++45,66642087,5000008,,
++45,12345678,5000009,,
++44,98745632,5000010,,
+break,,,,
+Emails,,,,
+john.smith@email.com,5000001,,,
+Jane.Doe@email.com,5000002,,,
+Bob.Johnson@email.com,5000003,,,
+Samantha.Lee@email.com,5000004,,,
+David.Wang@email.com,5000005,,,
+Jonathan.madsen@email.com,5000006,,,
+Valdemar.jensen@email.com,5000007,,,
+Simon.andersen@email.com,5000008,,,
+Christian.johnson@email.com,5000009,,,
+Frederik.frederikssen@email.com,5000010,,,
+break,,,,
